@@ -1,0 +1,22 @@
+14:16:05 [http-nio-9090-exec-9] ERROR c.c.c.c.AttractionsController - User Already Exists in Database : Username is already taken
+14:17:41 [http-nio-9090-exec-7] ERROR c.c.c.c.AttractionsController - User Already Exists in Database : Username is already taken
+14:20:38 [http-nio-9090-exec-2] ERROR c.c.c.c.AttractionsController - User not found in database : User not found.....
+14:20:54 [http-nio-9090-exec-10] ERROR c.c.c.c.AttractionsController - User not found in database : User not found.....
+14:21:11 [http-nio-9090-exec-4] ERROR c.c.c.c.AttractionsController - User not found in database : No such User Found
+15:20:21 [restartedMain] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 9090 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 9090 or configure this application to listen on another port.
+
+15:22:19 [http-nio-9090-exec-5] ERROR c.c.c.c.AttractionsController - User not found in database : User with given id does not exists
+15:22:42 [http-nio-9090-exec-6] ERROR c.c.c.c.AttractionsController - Attraction not found in Database : No Attraction of this Type
+15:27:32 [http-nio-9090-exec-10] ERROR c.c.c.c.AttractionsController - User Already Exists in Database : Username is already taken
